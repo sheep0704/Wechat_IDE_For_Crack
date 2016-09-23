@@ -2,20 +2,21 @@
 This document is Wechat's Cracked IDE
 <article class="markdown-body entry-content" itemprop="text"><h2><a id="user-content-相关资源" class="anchor" href="#相关资源" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>相关资源</h2>
 
-<ul>
-<li><p>开发群：QQ（40726600）</p></li>
-<li><p>开发工具 v0.9</p>
+开发群：QQ（246231638）
+
 
 <ul>
-<li>百度: <a href="https://pan.baidu.com/s/1pLTKIqJ">https://pan.baidu.com/s/1pLTKIqJ</a> （密码: iswg）</li>
-<li>360: <a href="https://yunpan.cn/ckvXjEbnFYMSC">https://yunpan.cn/ckvXjEbnFYMSC</a> （提取码：f9ca）</li>
-</ul></li>
+
+
 <li><p>Demo源代码</p>
-
-<ul>
-<li>百度: <a href="https://pan.baidu.com/s/1o8hJFuU">https://pan.baidu.com/s/1o8hJFuU</a> （密码: bsky）</li>
-<li>360: <a href="https://yunpan.cn/ckvXAacJjvsgR">https://yunpan.cn/ckvXAacJjvsgR</a> （提取码：3327）</li>
-</ul></li>
+	<ul>
+	<li> 百度云链接: <a href="https://pan.baidu.com/s/1c1Q3hIS"> https://pan.baidu.com/s/1c1Q3hIS </a>  密码: fc6b</li> 
+	</ul>
+</li>
+	<ul>
+	<li> 百度云链接: <a href="https://pan.baidu.com/s/1dFzCW1r">https://pan.baidu.com/s/1dFzCW1r </a> 密码:  jrk6 </li> 
+	</ul>
+</li>
 </ul>
 
 <h2><a id="user-content-破解步骤" class="anchor" href="#破解步骤" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>破解步骤</h2>
@@ -24,17 +25,18 @@ This document is Wechat's Cracked IDE
 
 <ol>
 <li>下载0.7版本开发工具，并安装.
-<ul>
-<li>Windows 64位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x64">点我下载</a></li>
-<li>Windows 32位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x86">点我下载</a></li>
-<li>Mac 版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=darwin">点我下载</a></li>
-</ul></li>
+	<ul>
+	<li>Windows 64位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x64">点我下载</a></li>
+	<li>Windows 32位版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=x86">点我下载</a></li>
+	<li>Mac 版本：<a href="https://mp.weixin.qq.com/debug/cgi-bin/webdebugger/download?from=mpwiki&os=darwin">点我下载</a></li>
+	</ul>
+</li>
 <li>打开0.7版本开发工具，通过微信扫描二维码，登录后关闭开发工具（不要退出微信登录的账号）</li>
 <li>然后安装0.9版本的开发工具
-<ul>
-<li>百度: <a href="https://pan.baidu.com/s/1pLTKIqJ">https://pan.baidu.com/s/1pLTKIqJ</a> （密码: iswg）</li>
-<li>360: <a href="https://yunpan.cn/ckvXjEbnFYMSC">https://yunpan.cn/ckvXjEbnFYMSC</a> （提取码：f9ca）</li>
-</ul></li>
+	<ul>
+	<li> 百度云链接: <a href="https://pan.baidu.com/s/1cj4d4a">https://pan.baidu.com/s/1cj4d4a</a> （密码: mf67 ）</li>  
+	</ul>
+</li>
 <li>打开『微信Web开发者工具』的程序目录
  
 <ul>
