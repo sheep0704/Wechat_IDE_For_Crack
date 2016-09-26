@@ -5,6 +5,8 @@ This document is Wechat's Cracked IDE
 开发群：QQ（246231638）
 
 
+QQ: 309933706
+
 <ul>
 
 
